@@ -1,0 +1,15 @@
+{
+  "name": "xaton",
+  "version": "1.0.0",
+  "description": "Xat con socketIO",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eisson Alipio",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^1.4.8"
+  }
+}
