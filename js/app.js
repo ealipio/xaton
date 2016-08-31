@@ -1,4 +1,4 @@
-$jQuery(document).ready(function($) {
+jQuery(document).ready(function($) {
 
   var socket = io('ws://'+ location.host +':3000/');
 
