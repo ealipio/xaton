@@ -20,3 +20,4 @@ io.on('connection', function(socket){
 });
 
 io.listen(3000), {origins: '*:*'};
+console.log("Listening for port:3000");
